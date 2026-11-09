@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+p{
+			position:center;
+	        top:50px;
+			width:500px;
+			text-align:center;
+			font-size:15px;
+		}
+		img{
+			height:100px;
+			width:100px;
+			opacity:0.5;
+		}
